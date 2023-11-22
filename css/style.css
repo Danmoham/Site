@@ -408,7 +408,7 @@ h3{
 #arrow2{
     position: absolute;
     right: 5rem;
-    bottom: -205.5rem;
+    bottom: -240.5rem;
 
 }
 #contact{
@@ -451,4 +451,9 @@ footer{
 }
 footer p{
     text-align: center;
+}
+.btn-project{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }

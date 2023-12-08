@@ -362,6 +362,7 @@ h3{
     max-height: 20rem;
     width: auto;
     margin: 1rem;
+    border: black 0.5px solid;
   }
   #project-stacks{
     align-items: stretch;
@@ -456,4 +457,8 @@ footer p{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+}
+
+#TickTock{
+    border: black solid 0.5px;
 }
